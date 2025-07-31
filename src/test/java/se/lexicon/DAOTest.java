@@ -1,4 +1,4 @@
 package se.lexicon;
 
-public class AppTest {
+public class DAOTest {
 }
